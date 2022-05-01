@@ -14,16 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Prasant Chettri] Journey
 
 [✍️ Introduce yourself]
-
+Prasant Chettri - Azure Cloud Solution Eng
 [✍️ Tell us why you started this challenge]
-
+Too find a way to share, learn and document all the learning I do for the certicifation. Lot of the tooling and resources does not get implemeted to production deployment, therefore, it is easy for forget them over the time. Joining this community, hopefully, help me from not forgetting my learning as I document them and also learn how the other cohorts in this community structuring their learniing that I could adopt to be more productive.
 [✍️ Tell us where you want to be at the end of the challenge]
+To me able figure out the way to implement most of the learning on lab and find some open community project to implement most of them outside teh work.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/charlaton2007)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/prasant-chettri-865b5436)
 
 ## Stepping out the door
 
