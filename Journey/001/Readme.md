@@ -17,7 +17,7 @@ To understand public cloud services, it is important to have an understanding of
 
 - 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
 - ✍️ (Show-Me) Explain in one or two sentences the use case
-
+In real world it would be helpful to deploy the infrastructure with Code using Git Azure DevOps w
 ## Cloud Research
 
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
@@ -26,6 +26,8 @@ To understand public cloud services, it is important to have an understanding of
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+# git init to initialize the code
+# git add . (to add all the staging)
 
 ### Step 1 — Summary of Step
 

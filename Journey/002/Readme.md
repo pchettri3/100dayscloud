@@ -6,6 +6,7 @@
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Too find a way to share, learn and document all the learning I do for the certicifation. Lot of the tooling and resources does not get implemeted to production deployment, therefore, it is easy for forget them over the time. Joining this community, hopefully, help me from not forgetting my learning as I document them and also learn how the other cohorts in this community structuring their learniing that I could adopt to be more productive. Updating branch test #
 
 ## Prerequisite
 
