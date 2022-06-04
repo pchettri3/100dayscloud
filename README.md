@@ -29,9 +29,7 @@ To me able figure out the way to implement most of the learning on lab and find 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-
-leaned AZ-700 Here is the summary as of April 13,22
+- [ ] ☁️ 2 > [leaned AZ-700 Here is the summary as of April 13,22
 Facts
 VPN gateway requires 
 
@@ -192,6 +190,7 @@ Gateways
 
 FastPath still requires a virtual network gateway to be created to exchange routes between virtual network and on-premises network.
 
+](Journey/002/Readme.md)
 
 
 
