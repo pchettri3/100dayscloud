@@ -503,7 +503,7 @@ Nuget package	Deployed Microsoft.Azure.Cosmos latest stable 3.27.0 over 3.16
 
 
 
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [NOT working with description](Journey/006/Readme.md)
 
 May 18 - AZ400 learning CI pipeline
 
